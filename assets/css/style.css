@@ -831,6 +831,22 @@ header nav .logo {
   top: 0;
   background-color: var(--primary-color);
 }
+/*------------------- Articles -------------------*/
+.articles {
+    position: relative;
+    height: auto;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+    grid-gap: 3rem;
+    margin-top: 20px;
+    grid-auto-flow: dense;
+}
+
+.articles .card{
+    box-shadow: none;
+    margin: 0 0 1rem 0;
+}
 /*------------------- CONTACT -------------------*/
 
 #contact {
