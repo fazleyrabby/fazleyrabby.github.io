@@ -1,2 +1,1 @@
-# Currently under mantainence!
-### mail me for any inquiry: fazley111@gmail.com
+# Redirected to my .xyz domain
